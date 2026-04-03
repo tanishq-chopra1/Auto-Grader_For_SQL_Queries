@@ -1,0 +1,45 @@
+# Environment Variables
+.env
+.env.local
+.env*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project Specific
+submissions/
+reports/
+*.xlsx
+*.xls
+
+# Database & Logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Cache
+.pytest_cache/
+.coverage
+htmlcov/
+

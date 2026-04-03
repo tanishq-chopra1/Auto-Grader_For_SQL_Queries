@@ -1,0 +1,2 @@
+Rubric for SQL Query Grading
+# Change it according to your own grading rubric
