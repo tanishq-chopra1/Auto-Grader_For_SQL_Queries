@@ -1,6 +1,6 @@
 # Auto-Grader for SQL Queries
 
-An intelligent system that automatically grades SQL queries from submission files using asynchronous processing, AI-powered feedback, and performance analysis.
+An intelligent system that automatically grades SQL queries from submission files using asynchronous processing, AI-powered feedback, and performance analysis with human-in-the-loop.
 
 ## Setup Instructions
 
